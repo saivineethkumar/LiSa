@@ -6,14 +6,11 @@
 - How does it work?
 </br>We aim to use a swarm of UAVs(Unmanned Aerial Vehicle's) to navigate to areas where human response team cannot easily penetrate and use the onboard camera sensor to detect humans and then assess the situation accordingly and plan the response.<br>
 
-- The following tasks are to be accomplished in the phase-3 of the codefundo++:
-</br>(To be updated)<br>
-
 - How users can get started with the project?
-</br>Firstly install Microsoft AirSim simulator (https://github.com/Microsoft/AirSim).
-(To be updated)<br>
+</br>a)Read about Project Kinect for Azure(https://azure.microsoft.com/en-in/campaigns/kinect/).<br>
+</br>b)Install Microsoft AirSim simulator (https://github.com/Microsoft/AirSim).<br>
 
 - What dataset(s) are we using?
-</br>As of now, we have a plan to use synthetic dataset available at (To be updated).<br>
+</br>As of now, we have a plan to do the work in the Microsoft AirSim simulator and hence will not be using any dataset.<br>
 - What technologies are we using?
 </br> Project Kinect for Azure, Microsoft AirSim for Simulation.<br>

@@ -16,4 +16,4 @@
 - What dataset(s) are we using?
 </br>As of now, we have a plan to use synthetic dataset available at (To be updated).<br>
 - What technologies are we using?
-</br> Project Kinetic for Azure, Microsoft AirSim for Simulation.<br>
+</br> Project Kinect for Azure, Microsoft AirSim for Simulation.<br>
